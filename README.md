@@ -4,7 +4,7 @@ A full-stack **Bank Management System** that enables users to perform essential 
 
 ## 🚀 Features
 
-- User Authentication (Login)
+- Login page
 - Deposit / Withdraw Money
 - Transfer Funds Between Accounts
 - View Transaction History
@@ -22,7 +22,7 @@ A full-stack **Bank Management System** that enables users to perform essential 
 - **TypeScript**
 
   ### 🖥️ Backend
-    - **C#**
+- **C#**
 - **ASP.NET Core (Web API)**
 - **Entity Framework Core**
 - **SQL Server**
